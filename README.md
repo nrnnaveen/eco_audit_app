@@ -12,3 +12,4 @@ This is a **college-level carbon footprint calculator** for departments.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+-simple Streamlit Application 
